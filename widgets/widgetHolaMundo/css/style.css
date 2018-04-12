@@ -1,0 +1,19 @@
+.jimu-widget-HolaMundo{
+  color:blue;
+}
+
+.jimu-widget-HolaMundo h2{
+  color:green;
+}
+
+.jimu-widget-HolaMundo h1{
+  color:red;
+}
+
+.jimu-widget-HolaMundo .elemento{
+  font-weight: bold;
+}
+
+.jimu-widget-HolaMundo #seleccionado{
+  font-size: : 50px;
+}
